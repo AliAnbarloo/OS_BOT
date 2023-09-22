@@ -1,0 +1,8 @@
+You will need subprocess and platform and pathlib .
+to install them, type the following commands in the CMD environment
+
+pip3 install platform
+
+pip3 install subprocess
+
+pip3 install pathlib
